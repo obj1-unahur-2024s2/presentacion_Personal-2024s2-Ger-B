@@ -1,35 +1,28 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+### Hola 👋 mi nombre es
+# Germán Bianco
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Tengo 26 años y soy de Hurlingham. Hice el secundario técnico para el titulo de técnico electromecánico,
+estudié Ingeniería Electromecánica en la UNGS entre el 2018 y el 2022, ya en el tercer año al ver que 
+la carrera no avanzaba como me hubiera gustado decidí probar con la programacion aqui en la UNAHUR.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+## Mis intereses son: 🎮:
+* Impresion 3D
+    * Pude armar una funcional desde cero.
+    * Actualmente continuo armando y desarmandola para hacerle mejoras.
+* Deportes
+    * Me gusta la natacion, actualmente participo del taller de natacion en la UNAHUR.
+    * Ir al GYM
+    * Andar en bici
+* Videojuegos
+    * Siempre me gustaron, actualmente juego menos pues estoy mas enfocado en la carrera,
+      pero aun juego alguno de vez en cuando.
+* Peliculas y series
+    * Por lo general todo lo que sea ciencia ficcion 🖖
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+##Lo que espero de la carrera y objetos 1.
+Siempre me gusto la informatica pero nunca la habia estudiado en profundidad. A dia de hoy estoy en 
+el segundo año de la tecnicatura y puedo decir que cada dia me gusta mas y quiero saber más. 
+Espero aprender cosas interesantes y terminar el cuatri con nuevas herramientas que me permitan 
+acceder a nuevos desafios. 
+Buena cursada a todos !! 
