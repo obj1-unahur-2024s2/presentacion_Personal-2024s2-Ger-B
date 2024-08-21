@@ -20,7 +20,8 @@ la carrera no avanzaba como me hubiera gustado decidí probar con la programacio
 * Peliculas y series
     * Por lo general todo lo que sea ciencia ficcion 🖖
 
-##Lo que espero de la carrera y objetos 1.
+## Lo que espero de la carrera y objetos 1.
+
 Siempre me gusto la informatica pero nunca la habia estudiado en profundidad. A dia de hoy estoy en 
 el segundo año de la tecnicatura y puedo decir que cada dia me gusta mas y quiero saber más. 
 Espero aprender cosas interesantes y terminar el cuatri con nuevas herramientas que me permitan 
