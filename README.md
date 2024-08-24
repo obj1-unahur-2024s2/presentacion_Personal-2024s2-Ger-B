@@ -21,6 +21,12 @@ la carrera no avanzaba como me hubiera gustado decidí probar con la programacio
     * Por lo general todo lo que sea ciencia ficcion 🖖
 
 ## Este soy yo armando la impresora
+### Comenzando...
+![Este soy yo armando la impresora](./assets/img1.jpg)
+
+### Primera impresion:
+
+![Primer benchi](./assets/img2.jpg)
 
 ## Lo que espero de la carrera y objetos 1.
 
