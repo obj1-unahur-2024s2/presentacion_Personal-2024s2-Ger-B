@@ -10,6 +10,7 @@ la carrera no avanzaba como me hubiera gustado decidí probar con la programacio
 * Impresion 3D
     * Pude armar una funcional desde cero.
     * Actualmente continuo armando y desarmandola para hacerle mejoras.
+    * Hago trabajos de impresion.
 * Deportes
     * Me gusta la natacion, actualmente participo del taller de natacion en la UNAHUR.
     * Ir al GYM
